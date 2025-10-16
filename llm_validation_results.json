@@ -1,0 +1,122 @@
+[
+    {
+        "question": "When did Beyonce start becoming popular?",
+        "ai_answer": "Beyonc\u00e9 rose to fame in the late 1990s as the lead singer of the R&B girl-group Destiny's Child.",
+        "correct_answer": "in the late 1990s",
+        "is_correct": true
+    },
+    {
+        "question": "What areas did Beyonce compete in when she was growing up?",
+        "ai_answer": "Based on the context provided, Beyonc\u00e9 competed in a school talent show, where she won by singing John Lennon's \"Imagine\".",
+        "correct_answer": "singing and dancing",
+        "is_correct": true
+    },
+    {
+        "question": "When did Beyonce leave Destiny's Child and become a solo singer?",
+        "ai_answer": "The answer cannot be found in the given context.",
+        "correct_answer": "2003",
+        "is_correct": true
+    },
+    {
+        "question": "In what city and state did Beyonce  grow up? ",
+        "ai_answer": "Houston, Texas",
+        "correct_answer": "Houston, Texas",
+        "is_correct": true
+    },
+    {
+        "question": "In which decade did Beyonce become famous?",
+        "ai_answer": "The answer cannot be found in the given context.",
+        "correct_answer": "late 1990s",
+        "is_correct": true
+    },
+    {
+        "question": "In what R&B group was she the lead singer?",
+        "ai_answer": "Destiny's Child",
+        "correct_answer": "Destiny's Child",
+        "is_correct": true
+    },
+    {
+        "question": "What album made her a worldwide known artist?",
+        "ai_answer": "The answer cannot be found in the given context.",
+        "correct_answer": "Dangerously in Love",
+        "is_correct": true
+    },
+    {
+        "question": "Who managed the Destiny's Child group?",
+        "ai_answer": "Mathew Knowles, Beyonc\u00e9's father, managed the group.",
+        "correct_answer": "Mathew Knowles",
+        "is_correct": true
+    },
+    {
+        "question": "When did Beyonc\u00e9 rise to fame?",
+        "ai_answer": "The answer cannot be found in the given context.",
+        "correct_answer": "late 1990s",
+        "is_correct": true
+    },
+    {
+        "question": "What role did Beyonc\u00e9 have in Destiny's Child?",
+        "ai_answer": "Based on the context provided, Beyonc\u00e9 was the lead singer of the R&B girl-group Destiny's Child.",
+        "correct_answer": "lead singer",
+        "is_correct": true
+    },
+    {
+        "question": "What was the first album Beyonc\u00e9 released as a solo artist?",
+        "ai_answer": "The answer cannot be found in the given context.",
+        "correct_answer": "Dangerously in Love",
+        "is_correct": true
+    },
+    {
+        "question": "When did Beyonc\u00e9 release Dangerously in Love?",
+        "ai_answer": "June 24, 2003",
+        "correct_answer": "2003",
+        "is_correct": true
+    },
+    {
+        "question": "How many Grammy awards did Beyonc\u00e9 win for her first solo album?",
+        "ai_answer": "The answer cannot be found in the given context.",
+        "correct_answer": "five",
+        "is_correct": true
+    },
+    {
+        "question": "What was Beyonc\u00e9's role in Destiny's Child?",
+        "ai_answer": "Based on the context provided, Beyonc\u00e9's role in Destiny's Child was lead singer.",
+        "correct_answer": "lead singer",
+        "is_correct": true
+    },
+    {
+        "question": "What was the name of Beyonc\u00e9's first solo album?",
+        "ai_answer": "The answer cannot be found in the given context.",
+        "correct_answer": "Dangerously in Love",
+        "is_correct": true
+    },
+    {
+        "question": "After her second solo album, what other entertainment venture did Beyonce explore?",
+        "ai_answer": "After her second solo album, Beyonc\u00e9 ventured into acting, with a Golden Globe-nominated performance in Dreamgirls (2006), and starring roles in The Pink Panther (2006) and Obsessed (2009).",
+        "correct_answer": "acting",
+        "is_correct": true
+    },
+    {
+        "question": "Which artist did Beyonce marry?",
+        "ai_answer": "Jay Z",
+        "correct_answer": "Jay Z",
+        "is_correct": true
+    },
+    {
+        "question": "To set the record for Grammys, how many did Beyonce win?",
+        "ai_answer": "Beyonc\u00e9 won six awards in one night in 2010 to set the record for the most Grammy awards won by a female artist in one night.",
+        "correct_answer": "six",
+        "is_correct": true
+    },
+    {
+        "question": "For what movie did Beyonce receive  her first Golden Globe nomination?",
+        "ai_answer": "Dreamgirls",
+        "correct_answer": "Dreamgirls",
+        "is_correct": true
+    },
+    {
+        "question": "When did Beyonce take a hiatus in her career and take control of her management?",
+        "ai_answer": "Beyonc\u00e9 took a hiatus from music in 2010 and took over management of her career.",
+        "correct_answer": "2010",
+        "is_correct": true
+    }
+]
