@@ -73,7 +73,9 @@ Create a .env file in the project root and add your Gemini API key:
 GEMINI_API_KEY=your_api_key_here
 
 🚀 How to Run
+
 Step 1: Create the ChromaDB Collection
+
 python create_chromadb.py
 
 Extracts and stores dataset contexts and metadata into ChromaDB.
@@ -127,5 +129,6 @@ pip install -r requirements.txt
 
 Developed by: [saniya parveen]
 Purpose: Educational / Research – Building RAG QA pipeline with open tools.
+
 
 
